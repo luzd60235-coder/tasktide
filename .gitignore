@@ -1,0 +1,11 @@
+.DS_Store
+/TaskTide
+/TaskTide-QA
+/AppIcon.iconset/
+/AppIcon.icns
+/dist/
+*.app/
+*.dmg
+*.zip
+tasks.json*
+.env*
